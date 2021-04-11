@@ -32,4 +32,4 @@ baseline: 0.83
 ... и для каждого алгоритма своя тетрадка. 
 
 ### Шпаргалка:
-[Открытый курс ODS](https://habr.com/ru/company/ods/blog/322626/ "Ссылка на курс")[Открытый курс ODS](https://habr.com/ru/company/ods/blog/322626/ "Ссылка на курс")
+[Открытый курс ODS](https://habr.com/ru/company/ods/blog/322626/ "Ссылка на курс")
